@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+        "name"              "SimpleHUDPaint"
+        "version"           "1.0"
+        "author_name"       "The Realist"
+        "author_email"      ""
+        "info"              "Displays up to 5 lines between hunter blindlock time and ULX csay text"
+        "override"          "0"
+}
